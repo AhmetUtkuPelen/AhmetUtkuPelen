@@ -1,5 +1,5 @@
 # 💫 About Me:
-💬 I am an Industrial Engineer who also likes to code<br>💬 I mainly use Javascript(MERN) and Python (Django , Django Rest , Fast Api)<br>💬 I would like to add Golang into my tech stack in future
+💬 I am an Industrial Engineer who also likes to code<br>💬 I mainly use Javascript-Typescript(MERN) and Python (Django , Django Rest , Fast Api)<br>💬 I would like to add Golang into my tech stack in future
 
 
 # 💻 Tech Stack:
