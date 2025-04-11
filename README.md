@@ -1,5 +1,5 @@
 # 💫 About Me:
-💬 I am an Industrial Engineer who also likes to code as a hobby<br>💬 I mainly use Javascript-Typescript(React JS, Express JS, Nest JS) , Python (Django ,Fast Api)<br>💬 I would like to add C# into my tech stack in future<br>💬 I use MongoDB or PgSQL for DB
+💬 I am an Industrial Engineer who also likes to code as a hobby<br>💬 I mainly use Javascript-Typescript(React JS, Express JS, Nest JS) , Python (Django ,Fast Api)<br>💬 I use MongoDB or PgSQL for DB
 
 
 # 💻 Tech Stack:
